@@ -29,4 +29,4 @@ These projects demonstrate various digital circuits and games built for the Xili
 
 ---
 
-Feel free to replace the descriptions with more details or add additional features of each project!
+Kindly go through the ppt shared in my repository for more details and additional features of my project!
