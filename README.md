@@ -6,7 +6,8 @@ These projects demonstrate various digital circuits and games built for the Xili
 1. **Full Adder Circuit**  
    A simple digital circuit that performs binary addition.
    
-   - Prerequisite: **AND Gate**: [View Image](https://drive.google.com/file/d/1hh19Nn3-eKAJPm6SQfkTxhvlpAVNaR0Z/view?usp=drive_link)  
+   - Prerequisite: **AND Gate**: [View Video](https://drive.google.com/file/d/1hh19Nn3-eKAJPm6SQfkTxhvlpAVNaR0Z/view?usp=drive_link)
+   - **Full Adder**: [View Image](https://drive.google.com/file/d/1MqEWRcKp8ZEpXn2KdG3uXPj1TXEqI_vw/view?usp=drive_link)  
    
 3. **4:2 Encoder Circuit**  
    An encoder circuit that converts four input signals into two binary-coded outputs.
