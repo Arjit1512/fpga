@@ -12,9 +12,9 @@ These projects demonstrate various digital circuits and games built for the Xili
 3. **Pulse Width Modulation using LEDs**  
    A project showcasing PWM control using onboard LEDs, adjusting brightness based on varying duty cycles.
    - **PWM Demo 1**: [View Image](https://drive.google.com/file/d/1CyqUP88mp5PgfvVEyOH4-y_FD32cP2xi/view?usp=drive_link)  
-   - **PWM Demo 2**: [View Image](https://drive.google.com/file/d/1oym4QIsD0r-cC9SxxctY3mEpEm6r-6mv/view?usp=drive_link)  
-   - **PWM Demo 3**: [View Image](https://drive.google.com/file/d/1-jkovB7a_deKwpxLcNo9Tlw29QjzlCj4/view?usp=drive_link)
-
+   - **PWM Demo 2**: [View Image](https://drive.google.com/file/d/1-jkovB7a_deKwpxLcNo9Tlw29QjzlCj4/view?usp=drive_link)
+   - **PWM Demo 3**: [View Image](https://drive.google.com/file/d/1oym4QIsD0r-cC9SxxctY3mEpEm6r-6mv/view?usp=drive_link)  
+   
 
 5. **Simple Pong Game**  
    A Pong game implementation for ZYBO, involving simple graphics and movement control.  
