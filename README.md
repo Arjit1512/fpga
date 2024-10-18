@@ -5,11 +5,13 @@ These projects demonstrate various digital circuits and games built for the Xili
 
 1. **Full Adder Circuit**  
    A simple digital circuit that performs binary addition.
-
-2. **4:2 Encoder Circuit**  
+   
+   - Prerequisite: **AND Gate**: [View Image](https://drive.google.com/file/d/1hh19Nn3-eKAJPm6SQfkTxhvlpAVNaR0Z/view?usp=drive_link)  
+   
+3. **4:2 Encoder Circuit**  
    An encoder circuit that converts four input signals into two binary-coded outputs.
 
-3. **Pulse Width Modulation using LEDs**  
+4. **Pulse Width Modulation using LEDs**  
    A project showcasing PWM control using onboard LEDs, adjusting brightness based on varying duty cycles.
    - **PWM Demo 1**: [View Image](https://drive.google.com/file/d/1CyqUP88mp5PgfvVEyOH4-y_FD32cP2xi/view?usp=drive_link)  
    - **PWM Demo 2**: [View Image](https://drive.google.com/file/d/1-jkovB7a_deKwpxLcNo9Tlw29QjzlCj4/view?usp=drive_link)
